@@ -7,8 +7,8 @@ liri-node-app runs in the node javascript command line. You will need to first n
 
 After the packages are installed. Simply run the first and second arguments as "node" and "liri.js" respectiving and then the third arguments are either:
 
-"my-tweets" to show recent tweets from liri's twitter.
-"spotify-this-song" to search information on a song you input into the fourth argument position.
-"movie-this" to search information on a movie you input into the fourth argument position.
+"my-tweets" to show recent tweets from liri's twitter.<br>
+"spotify-this-song" to search information on a song you input into the fourth argument position.<br>
+"movie-this" to search information on a movie you input into the fourth argument position.<br>
 "do-what-it-says" for something fun.
 
