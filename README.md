@@ -1,8 +1,8 @@
 liri-node-app runs in the node javascript command line. You will need to first npm install the following packages:
 
-<a href="https://www.npmjs.com/package/dotenv">dotenv</a>
-<a href="https://www.npmjs.com/package/twitter">twitter</a>
-<a href="https://www.npmjs.com/package/node-spotify-api">node-spotify-api</a>
+<a href="https://www.npmjs.com/package/dotenv">dotenv</a><br>
+<a href="https://www.npmjs.com/package/twitter">twitter</a><br>
+<a href="https://www.npmjs.com/package/node-spotify-api">node-spotify-api</a><br>
 <a href="https://www.npmjs.com/package/request">request</a>.
 
 After the packages are installed. Simply run the first and second arguments as "node" and "liri.js" respectiving and then the third arguments are either:
